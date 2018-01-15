@@ -1,3 +1,8 @@
+/***
+Programmer: ALEXANDRU C
+Project: Industria farmaceutica
+* mainwindow.h
+***/
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QMessageBox>
