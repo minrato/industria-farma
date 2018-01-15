@@ -1,3 +1,8 @@
+/***
+Programmer: ALEXANDRU C
+Project: Industria farmaceutica
+* mainwindow.h
+***/
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
