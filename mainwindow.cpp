@@ -1,7 +1,7 @@
 /***
 Programmer: ALEXANDRU C
 Project: Industria farmaceutica
-* mainwindow.h
+* mainwindow.cpp
 ***/
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
